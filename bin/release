@@ -1,0 +1,6 @@
+#!/bin/sh
+
+echo "---"
+echo "default_process_types:"
+
+exit 0

@@ -1,0 +1,5 @@
+#!/bin/sh
+
+echo "------> Detecting"
+
+exit 0

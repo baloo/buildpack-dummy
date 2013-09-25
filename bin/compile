@@ -1,0 +1,8 @@
+#!/bin/sh
+
+echo "-------> Compiling"
+echo "         Build directory: $1"
+echo "         Cache directory: $2"
+
+exit 0
+
